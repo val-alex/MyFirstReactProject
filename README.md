@@ -1,3 +1,3 @@
-**My First Little React Project**
+#My First Little React Project
 
 Just few components.
