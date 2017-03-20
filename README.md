@@ -1,3 +1,12 @@
-# My First Little React Project
+# My First React Projects
 
-Just few components.
+
+Install App
+
+
+```
+	> git clone https://github.com/val-alexeev/MyFirstReactProject.git
+	> cd MyFirstReactProject
+	> yarn install
+	> yarn start
+```
