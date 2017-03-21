@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './components/app'
-require('./styles/normalize.css');
-require('./styles/typebase.css');
-require('./styles/main.css');
+
+import normalize from './styles/normalize.css';
+import typebase from './styles/typebase.css';
+import main from './styles/main.css';
 
 ReactDOM.render(
   <App />, 
