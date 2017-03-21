@@ -6,7 +6,7 @@ const Hobbies = (props) => {
 
   return(
     <div>
-      <h5>My hobbies:</h5>
+      <h3>My hobbies:</h3>
       <ul>
         {hobbies}
       </ul>
